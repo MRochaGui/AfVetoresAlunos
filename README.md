@@ -14,6 +14,8 @@ Se C for > 5
 puxa o valor total acumulado divide por 6
 Displaya a media de alunos por classe
 Mostra quais salas estão acima da média
+Mostra quais salas estão abaixo da média
 Fim
 
-![image](https://user-images.githubusercontent.com/103973445/173455252-7e0d7801-280f-4c3b-93ed-0e944c0abebf.png)
+![image](https://user-images.githubusercontent.com/103973445/173458419-d47105f5-f076-4b30-afef-1924d6df38fc.png)
+
