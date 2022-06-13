@@ -38,6 +38,25 @@ public class AfVetoresAlunos {
 	        if(Q[5] >= 24){
 	            System.out.printf("A Sala 6 está acima da media com "+Q[5]+" alunos.\n\n");
 	        }
+	        if(Q[0] <= 24) {
+	            System.out.printf("A Sala 1 está abaixo da media com "+Q[0]+" alunos.\n\n");   
+	        }
+	        if(Q[1] <= 24){
+	            System.out.printf("A Sala 2 está abaixo da media com "+Q[1]+" alunos.\n\n");
+	        }
+	        if(Q[2] <= 24){
+	            System.out.printf("A Sala 3 está abaixo da media com "+Q[2]+" alunos.\n\n");
+	        }
+	        if(Q[3] <= 24){
+	            System.out.printf("A Sala 4 está abaixo da media com "+Q[3]+" alunos.\n\n");
+	        }
+	        if(Q[4] <= 24){
+	            System.out.printf("A Sala 5 está abaixo da media com "+Q[4]+" alunos.\n\n");
+	        }
+	        if(Q[5] <= 24){
+	            System.out.printf("A Sala 6 está abaixo da media com "+Q[5]+" alunos.\n\n");
+	        }
+
 
 
 	    }
